@@ -96,9 +96,9 @@ export default function App() {
           <a href="#home" className="flex items-center gap-3 group">
             <div className="w-11 h-11 rounded-2xl overflow-hidden border-2 border-blue-500/50 shadow-lg shadow-blue-600/30 group-hover:scale-105 transition-transform bg-slate-900">
               <img 
-                src="/assets/aistudio/image_7171112c.png" 
-                alt="Surendra SK"
-                className="w-full h-full object-cover object-center scale-125"
+                src="/assets/aistudio/image_30f131bf.png" 
+                alt="Surendra SK Logo"
+                className="w-full h-full object-cover object-top"
               />
             </div>
             <div>
@@ -277,7 +277,7 @@ export default function App() {
 
             </div>
 
-            {/* Hero Visual Card with Surendra SK's Photo */}
+            {/* Hero Visual Card with Cinematic Logo Photo */}
             <div className="lg:col-span-5 flex justify-center">
               <div className="relative w-full max-w-sm">
                 <div className="absolute -inset-1 rounded-3xl bg-gradient-to-r from-blue-600 via-cyan-500 to-blue-700 opacity-40 blur-xl"></div>
@@ -285,9 +285,9 @@ export default function App() {
                   
                   <div className="relative w-52 h-52 mx-auto rounded-2xl overflow-hidden border-2 border-blue-500/50 shadow-2xl bg-slate-950">
                     <img 
-                      src="/assets/aistudio/image_7171112c.png" 
-                      alt="Surendra SK"
-                      className="w-full h-full object-cover object-[center_35%] hover:scale-105 transition-transform duration-500"
+                      src="/assets/aistudio/image_30f131bf.png" 
+                      alt="Surendra SK Cinematic Portrait"
+                      className="w-full h-full object-cover object-top hover:scale-105 transition-transform duration-500"
                     />
                     <div className="absolute bottom-2.5 right-2.5 px-2.5 py-1 rounded-lg bg-[#22c55e] text-slate-950 text-[10px] font-extrabold uppercase tracking-widest shadow-lg flex items-center gap-1">
                       <span className="w-1.5 h-1.5 rounded-full bg-slate-950 animate-pulse"></span> Online
@@ -442,14 +442,14 @@ export default function App() {
             <div className="group rounded-3xl bg-[#0a1329] border border-blue-900/50 overflow-hidden shadow-2xl hover:border-blue-500 transition-all">
               <div className="aspect-[4/5] overflow-hidden bg-slate-950">
                 <img 
-                  src="/assets/aistudio/image_7171112c.png" 
-                  alt="Surendra SK Portrait"
+                  src="/assets/aistudio/image_30f131bf.png" 
+                  alt="Surendra SK Cinematic Portrait"
                   className="w-full h-full object-cover object-top group-hover:scale-105 transition-transform duration-500"
                 />
               </div>
               <div className="p-6">
-                <h4 className="text-lg font-bold text-white">Classic Portrait</h4>
-                <p className="text-slate-400 text-xs mt-1">Mahendranagar, Kanchanpur</p>
+                <h4 className="text-lg font-bold text-white">Cinematic Fire Portrait</h4>
+                <p className="text-slate-400 text-xs mt-1">Professional Vibe</p>
               </div>
             </div>
 
@@ -953,9 +953,9 @@ export default function App() {
           <div className="flex items-center gap-3">
             <div className="w-10 h-10 rounded-xl overflow-hidden border border-blue-500/50 bg-slate-900 shadow-md">
               <img 
-                src="/assets/aistudio/image_7171112c.png" 
+                src="/assets/aistudio/image_30f131bf.png" 
                 alt="Surendra SK"
-                className="w-full h-full object-cover object-center scale-125"
+                className="w-full h-full object-cover object-top"
               />
             </div>
             <span className="font-bold text-slate-200 text-sm">Surendra SK</span>
